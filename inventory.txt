@@ -1,0 +1,8 @@
+name, qty, reorder_level
+Gauze, 50, 100
+Gloves, 25, 50
+Syringes, 500, 50
+Bandages, 2000, 100
+Masks, 150, 100
+Towels, 50, 10
+Paper, 150, 50
